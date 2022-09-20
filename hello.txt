@@ -4,3 +4,4 @@ For gitk
 
 Hello, git!
 Hello agane!
+Hello, cherry pick!
